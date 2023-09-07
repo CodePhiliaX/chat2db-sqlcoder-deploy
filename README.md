@@ -1,5 +1,7 @@
 # chat2db-sqlcoder-deploy
 
+Languages： English | [中文](README_CN.md)
+
 ## 📖 Introduction
 
 This project introduces how to deploy the 8-bit quantized sqlcoder model on Alibaba Cloud for free, and apply the large model to the Chat2DB client.
