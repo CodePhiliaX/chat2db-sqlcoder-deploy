@@ -33,7 +33,7 @@ pip install -r requirements.txt
 pip install -i https://test.pypi.org/simple/ bitsandbytes
 ```
 
-5. 在DSW实例中打开一个terminal，创建sqlcoder-model和sqlcoder文件夹
+5. 在DSW实例中打开一个terminal，在目录/mnt/workspace下创建sqlcoder-model和sqlcoder文件夹
 6. 在sqlcoder-model文件夹下下载sqlcoder模型，执行下面的命令，请确保模型里面的几个bin文件下载完整且正确
 
 ```bash
